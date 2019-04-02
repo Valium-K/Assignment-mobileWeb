@@ -1,0 +1,5 @@
+img {
+	padding : 5px;
+	border : 15px solid black;
+	border-image : url("media/checkpattern.png") 30 round;
+}

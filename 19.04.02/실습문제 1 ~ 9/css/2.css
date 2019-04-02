@@ -1,0 +1,11 @@
+p {	
+	text-indent : 1em;
+	background : aliceblue;
+	color : brown;
+	font-family: "Lucida Console", Sans-Serif;
+	font-size: 15px;
+}
+span { 
+	font-size: 1.5em; 
+	text-decoration : underline;
+}

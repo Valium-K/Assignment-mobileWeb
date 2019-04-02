@@ -1,0 +1,9 @@
+div {
+	width : 100px;
+	height : 140px;
+	background-image : url("media/back.png");
+	background-size : 100px 140px;
+}
+#img:hover {
+	background-image : url("media/spade-7.png");
+}
