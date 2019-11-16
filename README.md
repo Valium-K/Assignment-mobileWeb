@@ -1,2 +1,2 @@
 # Assignment-mobileWeb
-college assignment - mobile web programming
+> 한 학기 과제 저장소
